@@ -1,0 +1,102 @@
+127.0.0.1 localhost
+
+# Personal Blocklist by @rafamerino (https://rafamerino.com)
+# Lista negra personal por @rafamerino
+
+# Domains added to this list are updated once or twice per year
+# Los dominios añadidos a esta lista son actualizados una o dos veces al año
+
+# Licensing: CC BY-NC 4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+## You are welcome to share, copy, redistibute, remix and transform this content
+## You must give appropriate credit, and not use this list for commercial purposes
+
+# Servidores habituales de ads en España // Usual Ads Servers in Spain
+0.0.0.0 aclaritics.info
+0.0.0.0 adcarem.co
+0.0.0.0 adcloud.us
+0.0.0.0 adsrv4k.com
+0.0.0.0 adturtle.biz
+0.0.0.0 ainder.club
+0.0.0.0 algocashmaster.com
+0.0.0.0 brand.ad
+0.0.0.0 bannersweb.s3.amazonaws.com
+0.0.0.0 canuckmethodprofit.co
+0.0.0.0 cinmaland.com
+0.0.0.0 copiapop.net
+0.0.0.0 demand.supply
+0.0.0.0 dolphincdn.xyz
+0.0.0.0 earnco.in
+0.0.0.0 enlarget.com
+0.0.0.0 freelotto.com
+0.0.0.0 kwinder.club
+0.0.0.0 leadzutw.com
+0.0.0.0 mmoframes.com
+0.0.0.0 niceduckies.com
+0.0.0.0 onclicktop.com
+0.0.0.0 palmshapednontransferable.com
+0.0.0.0 secure-cloud.pro
+0.0.0.0 shinkme.com
+0.0.0.0 solidopinion.com
+0.0.0.0 sorteos.cf
+0.0.0.0 supportcorner.co
+0.0.0.0 the-ufo.com
+0.0.0.0 vitalads.net
+0.0.0.0 104.154.237.193
+0.0.0.0 35.188.59.75
+0.0.0.0 35.193.89.147
+0.0.0.0 acortar.net
+0.0.0.0 algocashmaster.net
+0.0.0.0 apendit.com
+0.0.0.0 authorne.info
+0.0.0.0 canuckmethodprofit.co
+0.0.0.0 cinemalek.com
+0.0.0.0 cortanas.net
+0.0.0.0 desbloqueador.org
+0.0.0.0 doctoconve.club
+0.0.0.0 freelotto.com
+0.0.0.0 fuegodevida.com
+0.0.0.0 jlflzjdt.com
+0.0.0.0 liveadoptimizer.com
+0.0.0.0 millionairedream.co
+0.0.0.0 pvclouds.com
+0.0.0.0 supportcorner.co
+0.0.0.0 traffic.getmyads.com
+0.0.0.0 tvoy-million.co
+0.0.0.0 wekiss.co
+0.0.0.0 whipcountry.pw
+0.0.0.0 witholiced.info
+0.0.0.0 doragonborusupa.com
+0.0.0.0 partner.leguide.com
+0.0.0.0 rvv.emol.com
+0.0.0.0 static.playspace.com
+0.0.0.0 vivedescuentos.com
+0.0.0.0 api.adyoulike.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 affiliation.fotovista.com
+0.0.0.0 banner.europacasino.com
+0.0.0.0 banner.titancasino.com
+0.0.0.0 banner.titanpoker.com
+0.0.0.0 banner2.casino.com
+0.0.0.0 banners.videosz.com
+0.0.0.0 banners.webmasterplan.com
+0.0.0.0 bet365.com
+0.0.0.0 betting.betfair.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 click.eyk.net
+0.0.0.0 clickandgo.com
+0.0.0.0 clickfunnels.com
+0.0.0.0 clickiocdn.com
+0.0.0.0 clicksure.com
+0.0.0.0 clicktripz.com
+0.0.0.0 clipdealer.com
+0.0.0.0 cloudbet.com
+0.0.0.0 ad.vozpopuli.com
+0.0.0.0 ad.prismamediadigital.com
+0.0.0.0 ads.grupozeta.es
+0.0.0.0 ads.opensubtitles.org
+0.0.0.0 ads.telecinco.es
+0.0.0.0 adserver.economiadigital.es
+0.0.0.0 adverserve.net
+0.0.0.0 clasificados.elpais.com
+127.0.0.1 p.publico.es
+127.0.0.1 partner-ts.groupon.es
