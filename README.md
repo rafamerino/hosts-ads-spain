@@ -1,2 +1,3 @@
 # hosts-ads-spain
-Fichero hosts para bloquear publicidad de España en Pi-Hole
+Recopilación de hosts para bloquear publicidad de España en Pi-Hole, AdGuard, etc.
+Spanish hosts recopilation to block spam in Pi-Hole, AdGuard, etc.
