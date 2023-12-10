@@ -10,7 +10,7 @@ Instalación: Añade el [archivo raw](https://raw.githubusercontent.com/rafameri
  
 **===== ENGLISH =====**
 
-(EN) Spanish hosts recopilation to block spam in Pi-Hole, AdGuard, etc.
+(EN) Spanish hosts recopilation to block spam in PiHole, AdGuard, etc.
 
 Installation: Add [raw file](https://raw.githubusercontent.com/rafamerino/hosts-ads-spain/master/hosts-spain.txt) to adlist section
 
