@@ -1,0 +1,74 @@
+# Lista negra de cámaras que se conectan a la nube, por @rafamerino
+# Blocklist of cams with cloud services, by @rafamerino
+
+# Domains added to this list are updated once or twice per year
+# Los dominios añadidos a esta lista son actualizados una o dos veces al año
+
+# Licensing: CC BY-NC 4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+## You are welcome to share, copy, redistibute, remix and transform this content
+## You must give appropriate credit, and not use this list for commercial purposes
+
+127.0.0.1	mac.secu100.net
+127.0.0.1	pub-cfg.secu100.net
+127.0.0.1	upgrade.secu100.net
+127.0.0.1	xmeye.com
+127.0.0.1	xmsecu.com
+127.0.0.1	112.124.0.188
+127.0.0.1	112.124.3.115
+127.0.0.1	114.215.197.205
+127.0.0.1	120.131.9.243
+127.0.0.1	120.132.78.111
+127.0.0.1	120.92.226.110
+127.0.0.1	123.57.7.3
+127.0.0.1	123.59.14.6
+127.0.0.1	123.59.25.129
+127.0.0.1	52.29.139.70
+127.0.0.1	54.178.154.181
+127.0.0.1	54.207.126.203
+127.0.0.1	54.254.159.106
+127.0.0.1	54.67.91.181
+127.0.0.1	54.72.86.70
+127.0.0.1	54.84.132.236
+127.0.0.1	120.92.19.19
+127.0.0.1	54.176.110.240
+127.0.0.1	52.28.165.62
+127.0.0.1	54.219.55.26
+127.0.0.1	13.250.136.158
+127.0.0.1	52.68.51.87
+127.0.0.1	52.29.246.211
+127.0.0.1	18.196.29.221
+127.0.0.1	18.195.157.230
+127.0.0.1	13.250.71.188
+127.0.0.1	54.177.43.158
+127.0.0.1	13.250.147.123
+127.0.0.1	184.72.16.53
+127.0.0.1	77.75.39.202
+127.0.0.1	185.39.174.132
+127.0.0.1 security-app-eu.eufylife.com
+127.0.0.1 zhixin-security-eu.s3.eu-central-1.amazonaws.com
+127.0.0.1 api.wyzecam.com
+127.0.0.1 int.dpool.sina.com.cn
+127.0.0.1 www.jovetech.com
+127.0.0.1 jovetech.com
+127.0.0.1 afdvr.com
+127.0.0.1 www.afdvr.com
+127.0.0.1 btrace.ysp.cctv.cn
+127.0.0.1 mtrace.ysp.cctv.cn
+127.0.0.1 cctvgb.com.cn
+127.0.0.1 cctv.mmstat.com
+127.0.0.1 app-measurement.com
+127.0.0.1 wyze-general-api.wyzecam.com
+127.0.0.1 api.wyzecam.com
+127.0.0.1 dms-api.wyzecam.com
+127.0.0.1 wyze-iot.s3-us-west-2.amazonaws.com
+127.0.0.1 kinesisvideo.us-west-2.amazonaws.com
+127.0.0.1 aws-iot.wyzecam.com
+127.0.0.1 devaccess.easy4ipcloud.com
+127.0.0.1 www.easy4ip.com
+127.0.0.1 easy4ip.com
+127.0.0.1 www.easy4ipcloud.com
+127.0.0.1 easy4ipcloud.com
+127.0.0.1 *.iot.us-west-2.amazonaws.com
+127.0.0.1 *.kinesisvideo.us-west-2.amazonaws.com
+127.0.0.1 config.amcrestcloud.com
+127.0.0.1 p2pasplus.zencamcloud.com
